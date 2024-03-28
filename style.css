@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+header{
+    background-color: brown;
+}
+.square {
+   background-color: red;
+   width: 250px;
+   height: 250px;
+   text-align: center;
+
+}
+.square h1{
+    text-align: center;
+    position: relative;
+    top: 40%;
+    bottom: 40%;
+    
+}
+.square2 {
+  background-color: black;
+  width: 250px;
+  height: 250px;
+  margin-top: 10px;
+}
+.square2 h2{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 40%;
+    bottom: 40%;
+}
+
